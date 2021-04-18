@@ -1,0 +1,12 @@
+.main-box{
+    background: #FFFFFF;
+    border-radius: 13px;
+    /*padding: 30px !important;*/
+    border: 1px solid #DDE4EB;
+    padding: 30px;
+
+}
+
+.main-box p{
+font-size: 20px;
+}

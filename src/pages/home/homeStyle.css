@@ -1,0 +1,27 @@
+.main-home img{
+    width: 150px;
+    border-radius: 50%;
+}
+
+.main-home ul{
+    list-style-type: none;
+    text-align: initial;
+}
+.main-home span{
+    cursor: pointer;
+    color: #FFFFFF;
+    background: tomato;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+}
+.warning-msg{
+    font-size: 12px;
+    color: tomato;
+}
+.main-otp{
+    color: white;
+}
+.main-otp p:nth-child(2){
+    color: black;
+}
